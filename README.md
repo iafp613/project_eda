@@ -7,7 +7,7 @@ _Por este motivo, quise realizar un análisis exploratorio de datos para comprob
 
 _Con todos los datos obtenidos quiero concluir si en España, la tecnología, los avances médicos y el estilo de vida de los últimos cuarenta años han contribuido o no al aumento de la mortalidad._
 
-![GitHub watchers](https://img.shields.io/github/watchers/iafp613/projects_tb?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/iafp613/project_eda?style=social)
 
 
 ## Comenzando 🚀
